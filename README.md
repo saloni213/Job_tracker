@@ -63,6 +63,8 @@ You need to provide your client_id and client_secret from the France Travail API
 - Top 10 Departments by Number of Job Postings
 - Job Postings Trends over the Last 6 Months
 
+<img width="1394" alt="image" src="https://github.com/user-attachments/assets/b66c326c-b49c-41e2-882a-f1900bac125c">
+
 ## Code Structure
 
 - JobPostings class: Handles the connection to the France Travail API and includes methods for retrieving and visualizing job postings data.
